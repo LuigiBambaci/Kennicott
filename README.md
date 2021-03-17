@@ -1,5 +1,7 @@
 # Kennicott
 
+<h>KennicottXML</h>
+
 KennicottXML is a project dedicated to the digitisation of Benjamin Kennicott's work. In particular, the project focuses on the XML encoding of the critical apparatus. 
 
 The encoding is carried out automatically by means of a parser, created using the ANTLR4 software. 
