@@ -14,4 +14,4 @@ txt: contains the digitized apparatus of the individual books of the Hebrew Bibl
 
 xml: contains the xml files resulting from parsing
 
-xsl: contains the XSL-T style sheet needed to transform the XML code into TEI
+xsl: contains the XSL-T stylesheet needed to transform the XML code into TEI
