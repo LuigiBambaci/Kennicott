@@ -10,7 +10,7 @@ Below is the list of folders and their contents.
 
 - **tei**: contains the final list of XML files according to the TEI international standard
 
-- **txt**: contains the digitized apparatus of the individual books of the Hebrew Bible in txt format
+- **txt**: contains the digitized apparatus of the individual books of the Hebrew Bible in TXT format
 
 - **xml**: contains the xml files resulting from parsing
 
